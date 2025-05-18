@@ -1,0 +1,2 @@
+import{V as m}from"./hoisted.OgwwgjAf.js";import"./VerticalScrollDisplay.astro_astro_type_script_index_0_lang.JgFa5yOJ.js";import"./store.BgoNh_Ns.js";import"./utils.CTzHa8pX.js";import"./index.RYns6xqu.js";import"./notifications.DsA4Fb-I.js";import"./formatEther.BT9kyPVd.js";const e=new m,o=document.getElementById("audio-essences");o.volume=e.getVolume();e.subscribe(t=>{o&&(o.volume=t)});
+//# sourceMappingURL=hoisted.BfonPXFU.js.map
